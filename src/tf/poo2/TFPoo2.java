@@ -15,6 +15,10 @@ public class TFPoo2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Comprar_ticket pantalla= new Comprar_ticket();
+        pantalla.setVisible(true);
+        pantalla.setLocationRelativeTo(null);
+        
     }
     
 }
